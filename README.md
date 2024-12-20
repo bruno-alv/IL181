@@ -1,3 +1,5 @@
-This branch shows my first approach to my AI-learning journey. Through my professor's recommendation, I first explored Autoencoders and image processing through them. For my own interest, I decided to then explore LLMs and their general architechture.
+This branch shows my first approach to my AI-learning journey. I first explored Autoencoders and image processing through my professor's recommendation. Out of my interest, I then explored LLMs and their general architecture.
 
-I then created a very simple prompt processor that would generate shapes in different coulours and sizes through prompts. I trained my own model on several prompts and cases. I undestand this approaches limitations, but this project helped me better undestand the general idea behind AI and how I could approach new tecniques and models to continue on my AI journey.
+I then created a prompt processor that would generate shapes in different colours and sizes through prompts. I trained my model on several prompts and cases. It was quite a basic approach but effective.
+
+I understand this approach's limitations, but this project helped me better understand the general idea behind AI and how to approach new techniques and models to continue my AI journey.
